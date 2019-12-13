@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/deployrobots/static/css/main.e8125c3e.chunk.css",
+    "main.js": "/deployrobots/static/js/main.2fe048ed.chunk.js",
+    "main.js.map": "/deployrobots/static/js/main.2fe048ed.chunk.js.map",
+    "runtime-main.js": "/deployrobots/static/js/runtime-main.1bad593c.js",
+    "runtime-main.js.map": "/deployrobots/static/js/runtime-main.1bad593c.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/deployrobots/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.2aa5c9ea.chunk.js": "/deployrobots/static/js/2.2aa5c9ea.chunk.js",
+    "static/js/2.2aa5c9ea.chunk.js.map": "/deployrobots/static/js/2.2aa5c9ea.chunk.js.map",
+    "index.html": "/deployrobots/index.html",
+    "precache-manifest.afa26cd3e698c7cfae5ac295f18d1aa0.js": "/deployrobots/precache-manifest.afa26cd3e698c7cfae5ac295f18d1aa0.js",
+    "service-worker.js": "/deployrobots/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/deployrobots/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.e8125c3e.chunk.css.map": "/deployrobots/static/css/main.e8125c3e.chunk.css.map",
+    "static/js/2.2aa5c9ea.chunk.js.LICENSE": "/deployrobots/static/js/2.2aa5c9ea.chunk.js.LICENSE",
+    "static/media/App.css": "/deployrobots/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bad593c.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.2aa5c9ea.chunk.js",
+    "static/css/main.e8125c3e.chunk.css",
+    "static/js/main.2fe048ed.chunk.js"
+  ]
+}
